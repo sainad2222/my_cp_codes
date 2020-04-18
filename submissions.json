@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF77187313": {
+    "contest_id": 1104,
+    "language": "Python 3",
+    "path": "codeforces/1104/A.py",
+    "problem_index": "A",
+    "problem_name": "Splitting into digits",
+    "problem_url": "https://codeforces.com/contest/1104/problem/A",
+    "submission_id": "CF77187313",
+    "submission_url": "https://codeforces.com/contest/1104/submission/77187313",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/18/2020 19:04"
+  },
   "CF77187439": {
     "contest_id": 1104,
     "language": "PyPy 3",
