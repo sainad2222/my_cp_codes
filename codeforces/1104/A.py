@@ -1,4 +1,2 @@
-n = int(input())
-print(n)
-for i in range(n):
-    print(1,end=" ")
+n=int(input())
+print(n,*[1]*n)
