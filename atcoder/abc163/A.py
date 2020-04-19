@@ -1,3 +1,3 @@
-import math
 r = int(input())
-print(2*r*math.pi)
+import math
+print(2*math.pi*r)
