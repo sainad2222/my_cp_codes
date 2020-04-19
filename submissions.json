@@ -1,4 +1,20 @@
 {
+  "AC12099033": {
+    "contest_id": "abc163",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc163/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Homework",
+    "problem_url": "https://atcoder.jp/contests/abc163/tasks/abc163_b",
+    "submission_id": "AC12099033",
+    "submission_url": "https://atcoder.jp/contests/abc163/submissions/12099033",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/19/2020 17:39"
+  },
   "AC12101461": {
     "contest_id": "abc163",
     "language": "Python (3.8.2)",
