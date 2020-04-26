@@ -1,4 +1,20 @@
 {
+  "AC12387573": {
+    "contest_id": "abc164",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc164/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Battle",
+    "problem_url": "https://atcoder.jp/contests/abc164/tasks/abc164_b",
+    "submission_id": "AC12387573",
+    "submission_url": "https://atcoder.jp/contests/abc164/submissions/12387573",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/26/2020 18:42"
+  },
   "AC12388707": {
     "contest_id": "abc164",
     "language": "Python (3.8.2)",
