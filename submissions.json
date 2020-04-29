@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF78482941": {
+    "contest_id": 122,
+    "language": "Python 3",
+    "path": "codeforces/122/A.py",
+    "problem_index": "A",
+    "problem_name": "Lucky Division",
+    "problem_url": "https://codeforces.com/contest/122/problem/A",
+    "submission_id": "CF78482941",
+    "submission_url": "https://codeforces.com/contest/122/submission/78482941",
+    "tags": [
+      "brute force",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Apr/29/2020 19:28"
+  },
   "CF78484319": {
     "contest_id": 160,
     "language": "Python 3",
