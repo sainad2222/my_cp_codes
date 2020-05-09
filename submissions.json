@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF79453438": {
+    "contest_id": 1351,
+    "language": "Python 3",
+    "path": "codeforces/1351/B.py",
+    "problem_index": "B",
+    "problem_name": "Square?",
+    "problem_url": "https://codeforces.com/contest/1351/problem/B",
+    "submission_id": "CF79453438",
+    "submission_url": "https://codeforces.com/contest/1351/submission/79453438",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/09/2020 15:56"
+  },
   "CF79471351": {
     "contest_id": 120,
     "language": "Python 3",
