@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF79471351": {
+    "contest_id": 120,
+    "language": "Python 3",
+    "path": "codeforces/120/A.py",
+    "problem_index": "A",
+    "problem_name": "Elevator",
+    "problem_url": "https://codeforces.com/contest/120/problem/A",
+    "submission_id": "CF79471351",
+    "submission_url": "https://codeforces.com/contest/120/submission/79471351",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/09/2020 19:39"
+  },
   "CF79472095": {
     "contest_id": 460,
     "language": "Python 3",
