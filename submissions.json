@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF79571987": {
+    "contest_id": 1352,
+    "language": "Python 3",
+    "path": "codeforces/1352/C.py",
+    "problem_index": "C",
+    "problem_name": "K-th Not Divisible by n",
+    "problem_url": "https://codeforces.com/contest/1352/problem/C",
+    "submission_id": "CF79571987",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79571987",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/09/2020 22:24"
+  },
   "CF79659115": {
     "contest_id": 233,
     "language": "Python 3",
