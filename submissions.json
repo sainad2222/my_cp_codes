@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF79751976": {
+    "contest_id": 148,
+    "language": "Python 3",
+    "path": "codeforces/148/A.py",
+    "problem_index": "A",
+    "problem_name": "Insomnia cure",
+    "problem_url": "https://codeforces.com/contest/148/problem/A",
+    "submission_id": "CF79751976",
+    "submission_url": "https://codeforces.com/contest/148/submission/79751976",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/11/2020 19:26"
+  },
   "CF79753758": {
     "contest_id": 1,
     "language": "Python 3",
