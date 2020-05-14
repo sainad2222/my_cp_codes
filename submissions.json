@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80071591": {
+    "contest_id": 237,
+    "language": "Python 3",
+    "path": "codeforces/237/A.py",
+    "problem_index": "A",
+    "problem_name": "Free Cash",
+    "problem_url": "https://codeforces.com/contest/237/problem/A",
+    "submission_id": "CF80071591",
+    "submission_url": "https://codeforces.com/contest/237/submission/80071591",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/14/2020 18:34"
+  },
   "CF80071856": {
     "contest_id": 339,
     "language": "Python 3",
