@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80058774": {
+    "contest_id": 255,
+    "language": "Python 3",
+    "path": "codeforces/255/A.py",
+    "problem_index": "A",
+    "problem_name": "Greg's Workout",
+    "problem_url": "https://codeforces.com/contest/255/problem/A",
+    "submission_id": "CF80058774",
+    "submission_url": "https://codeforces.com/contest/255/submission/80058774",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/14/2020 16:04"
+  },
   "CF80071591": {
     "contest_id": 237,
     "language": "Python 3",
