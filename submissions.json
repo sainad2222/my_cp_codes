@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80255634": {
+    "contest_id": 136,
+    "language": "Python 3",
+    "path": "codeforces/136/A.py",
+    "problem_index": "A",
+    "problem_name": "Presents",
+    "problem_url": "https://codeforces.com/contest/136/problem/A",
+    "submission_id": "CF80255634",
+    "submission_url": "https://codeforces.com/contest/136/submission/80255634",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2020 00:19"
+  },
   "CF80289305": {
     "contest_id": 263,
     "language": "Python 3",
