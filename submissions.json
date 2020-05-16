@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80376707": {
+    "contest_id": 839,
+    "language": "Python 3",
+    "path": "codeforces/839/A.py",
+    "problem_index": "A",
+    "problem_name": "Arya and Bran",
+    "problem_url": "https://codeforces.com/contest/839/problem/A",
+    "submission_id": "CF80376707",
+    "submission_url": "https://codeforces.com/contest/839/submission/80376707",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/16/2020 19:14"
+  },
   "CF80377588": {
     "contest_id": 1331,
     "language": "Python 3",
