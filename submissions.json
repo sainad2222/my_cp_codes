@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80290057": {
+    "contest_id": 144,
+    "language": "Python 3",
+    "path": "codeforces/144/A.py",
+    "problem_index": "A",
+    "problem_name": "Arrival of the General",
+    "problem_url": "https://codeforces.com/contest/144/problem/A",
+    "submission_id": "CF80290057",
+    "submission_url": "https://codeforces.com/contest/144/submission/80290057",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2020 13:01"
+  },
   "CF80296388": {
     "contest_id": 451,
     "language": "Python 3",
