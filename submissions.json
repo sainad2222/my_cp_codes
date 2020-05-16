@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80308476": {
+    "contest_id": 479,
+    "language": "Python 3",
+    "path": "codeforces/479/A.py",
+    "problem_index": "A",
+    "problem_name": "Expression",
+    "problem_url": "https://codeforces.com/contest/479/problem/A",
+    "submission_id": "CF80308476",
+    "submission_url": "https://codeforces.com/contest/479/submission/80308476",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/16/2020 16:48"
+  },
   "CF80362363": {
     "contest_id": 443,
     "language": "Python 3",
