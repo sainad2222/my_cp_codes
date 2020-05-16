@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80384472": {
+    "contest_id": 469,
+    "language": "Python 3",
+    "path": "codeforces/469/A.py",
+    "problem_index": "A",
+    "problem_name": "I Wanna Be the Guy",
+    "problem_url": "https://codeforces.com/contest/469/problem/A",
+    "submission_id": "CF80384472",
+    "submission_url": "https://codeforces.com/contest/469/submission/80384472",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2020 20:37"
+  },
   "CF80389430": {
     "contest_id": 99,
     "language": "Python 3",
