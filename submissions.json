@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80377588": {
+    "contest_id": 1331,
+    "language": "Python 3",
+    "path": "codeforces/1331/B.py",
+    "problem_index": "B",
+    "problem_name": "Limericks",
+    "problem_url": "https://codeforces.com/contest/1331/problem/B",
+    "submission_id": "CF80377588",
+    "submission_url": "https://codeforces.com/contest/1331/submission/80377588",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "May/16/2020 19:36"
+  },
   "CF80384472": {
     "contest_id": 469,
     "language": "Python 3",
