@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80367486": {
+    "contest_id": 1176,
+    "language": "Python 3",
+    "path": "codeforces/1176/A.py",
+    "problem_index": "A",
+    "problem_name": "Divide it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/A",
+    "submission_id": "CF80367486",
+    "submission_url": "https://codeforces.com/contest/1176/submission/80367486",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2020 18:50"
+  },
   "CF80376707": {
     "contest_id": 839,
     "language": "Python 3",
