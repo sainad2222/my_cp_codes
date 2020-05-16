@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80389430": {
+    "contest_id": 99,
+    "language": "Python 3",
+    "path": "codeforces/99/A.py",
+    "problem_index": "A",
+    "problem_name": "Help Far Away Kingdom",
+    "problem_url": "https://codeforces.com/contest/99/problem/A",
+    "submission_id": "CF80389430",
+    "submission_url": "https://codeforces.com/contest/99/submission/80389430",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/16/2020 21:14"
+  },
   "CF80391742": {
     "contest_id": 1355,
     "language": "Python 3",
