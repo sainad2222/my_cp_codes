@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80298569": {
+    "contest_id": 208,
+    "language": "Python 3",
+    "path": "codeforces/208/A.py",
+    "problem_index": "A",
+    "problem_name": "Dubstep",
+    "problem_url": "https://codeforces.com/contest/208/problem/A",
+    "submission_id": "CF80298569",
+    "submission_url": "https://codeforces.com/contest/208/submission/80298569",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "May/16/2020 14:47"
+  },
   "CF80299493": {
     "contest_id": 337,
     "language": "Python 3",
