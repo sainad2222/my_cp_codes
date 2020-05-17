@@ -1,4 +1,20 @@
 {
+  "AC13325572": {
+    "contest_id": "abc168",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc168/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": ": (Colon)",
+    "problem_url": "https://atcoder.jp/contests/abc168/tasks/abc168_c",
+    "submission_id": "AC13325572",
+    "submission_url": "https://atcoder.jp/contests/abc168/submissions/13325572",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/17/2020 18:12"
+  },
   "AC13777615": {
     "contest_id": "abc169",
     "language": "Python (3.8.2)",
