@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80750940": {
+    "contest_id": 131,
+    "language": "Python 3",
+    "path": "codeforces/131/C.py",
+    "problem_index": "C",
+    "problem_name": "The World is a Theatre",
+    "problem_url": "https://codeforces.com/contest/131/problem/C",
+    "submission_id": "CF80750940",
+    "submission_url": "https://codeforces.com/contest/131/submission/80750940",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/20/2020 13:11"
+  },
   "CF80799305": {
     "contest_id": 266,
     "language": "Python 3",
