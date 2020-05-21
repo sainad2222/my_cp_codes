@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF80859506": {
+    "contest_id": 230,
+    "language": "Python 3",
+    "path": "codeforces/230/A.py",
+    "problem_index": "A",
+    "problem_name": "Dragons",
+    "problem_url": "https://codeforces.com/contest/230/problem/A",
+    "submission_id": "CF80859506",
+    "submission_url": "https://codeforces.com/contest/230/submission/80859506",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/21/2020 19:35"
+  },
   "CF80860245": {
     "contest_id": 577,
     "language": "Python 3",
