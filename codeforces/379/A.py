@@ -1,0 +1,9 @@
+a,b=map(int,input().split())
+count=a
+bank=0
+while((a+bank)>=b):
+    tmp=a
+    a=(a+bank)//b
+    bank=(tmp+bank)%b
+    count+=a
+print(count)
