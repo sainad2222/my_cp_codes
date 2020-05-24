@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF81214458": {
+    "contest_id": 1360,
+    "language": "Python 3",
+    "path": "codeforces/1360/A.py",
+    "problem_index": "A",
+    "problem_name": "Minimal Square",
+    "problem_url": "https://codeforces.com/contest/1360/problem/A",
+    "submission_id": "CF81214458",
+    "submission_url": "https://codeforces.com/contest/1360/submission/81214458",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/24/2020 19:15"
+  },
   "CF81225265": {
     "contest_id": 1360,
     "language": "Python 3",
