@@ -645,6 +645,24 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF81325410": {
+    "contest_id": 1360,
+    "language": "Python 3",
+    "path": "codeforces/1360/C.py",
+    "problem_index": "C",
+    "problem_name": "Similar Pairs",
+    "problem_url": "https://codeforces.com/contest/1360/problem/C",
+    "submission_id": "CF81325410",
+    "submission_url": "https://codeforces.com/contest/1360/submission/81325410",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/25/2020 00:09"
+  },
   "CF81487424": {
     "contest_id": 1358,
     "language": "Python 3",
