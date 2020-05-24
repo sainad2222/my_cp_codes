@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF81225265": {
+    "contest_id": 1360,
+    "language": "Python 3",
+    "path": "codeforces/1360/B.py",
+    "problem_index": "B",
+    "problem_name": "Honest Coach",
+    "problem_url": "https://codeforces.com/contest/1360/problem/B",
+    "submission_id": "CF81225265",
+    "submission_url": "https://codeforces.com/contest/1360/submission/81225265",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/24/2020 19:23"
+  },
   "CF81278788": {
     "contest_id": 1360,
     "language": "Python 3",
