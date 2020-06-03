@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF82401067": {
+    "contest_id": 499,
+    "language": "Python 3",
+    "path": "codeforces/499/B.py",
+    "problem_index": "B",
+    "problem_name": "Lecture",
+    "problem_url": "https://codeforces.com/contest/499/problem/B",
+    "submission_id": "CF82401067",
+    "submission_url": "https://codeforces.com/contest/499/submission/82401067",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jun/03/2020 19:04"
+  },
   "CF82401938": {
     "contest_id": 447,
     "language": "Python 3",
