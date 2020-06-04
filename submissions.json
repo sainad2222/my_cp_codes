@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF82568451": {
+    "contest_id": 1362,
+    "language": "Python 3",
+    "path": "codeforces/1362/C.py",
+    "problem_index": "C",
+    "problem_name": "Johnny and Another Rating Drop",
+    "problem_url": "https://codeforces.com/contest/1362/problem/C",
+    "submission_id": "CF82568451",
+    "submission_url": "https://codeforces.com/contest/1362/submission/82568451",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/05/2020 00:03"
+  },
   "CF82605240": {
     "contest_id": 265,
     "language": "Python 3",
