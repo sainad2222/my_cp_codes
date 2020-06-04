@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF82498048": {
+    "contest_id": 1362,
+    "language": "Python 3",
+    "path": "codeforces/1362/A.py",
+    "problem_index": "A",
+    "problem_name": "Johnny and Ancient Computer",
+    "problem_url": "https://codeforces.com/contest/1362/problem/A",
+    "submission_id": "CF82498048",
+    "submission_url": "https://codeforces.com/contest/1362/submission/82498048",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/04/2020 20:18"
+  },
   "CF82518382": {
     "contest_id": 1362,
     "language": "Python 3",
