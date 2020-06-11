@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF83475592": {
+    "contest_id": 1366,
+    "language": "Python 3",
+    "path": "codeforces/1366/A.py",
+    "problem_index": "A",
+    "problem_name": "Shovels and Swords",
+    "problem_url": "https://codeforces.com/contest/1366/problem/A",
+    "submission_id": "CF83475592",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83475592",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/12/2020 00:23"
+  },
   "CF83508105": {
     "contest_id": 141,
     "language": "Python 3",
