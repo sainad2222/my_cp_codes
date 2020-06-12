@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF83508105": {
+    "contest_id": 141,
+    "language": "Python 3",
+    "path": "codeforces/141/A.py",
+    "problem_index": "A",
+    "problem_name": "Amusing Joke",
+    "problem_url": "https://codeforces.com/contest/141/problem/A",
+    "submission_id": "CF83508105",
+    "submission_url": "https://codeforces.com/contest/141/submission/83508105",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/12/2020 13:03"
+  },
   "CF83508519": {
     "contest_id": 43,
     "language": "Python 3",
