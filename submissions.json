@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF83508658": {
+    "contest_id": 1366,
+    "language": "Python 3",
+    "path": "codeforces/1366/B.py",
+    "problem_index": "B",
+    "problem_name": "Shuffle",
+    "problem_url": "https://codeforces.com/contest/1366/problem/B",
+    "submission_id": "CF83508658",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83508658",
+    "tags": [
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jun/12/2020 13:10"
+  },
   "CF83615923": {
     "contest_id": 604,
     "language": "Python 3",
