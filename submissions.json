@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF83615923": {
+    "contest_id": 604,
+    "language": "Python 3",
+    "path": "codeforces/604/A.py",
+    "problem_index": "A",
+    "problem_name": "Uncowed Forces",
+    "problem_url": "https://codeforces.com/contest/604/problem/A",
+    "submission_id": "CF83615923",
+    "submission_url": "https://codeforces.com/contest/604/submission/83615923",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/13/2020 19:07"
+  },
   "CF83616494": {
     "contest_id": 471,
     "language": "Python 3",
