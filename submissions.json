@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF83616494": {
+    "contest_id": 471,
+    "language": "Python 3",
+    "path": "codeforces/471/A.py",
+    "problem_index": "A",
+    "problem_name": "MUH and Sticks",
+    "problem_url": "https://codeforces.com/contest/471/problem/A",
+    "submission_id": "CF83616494",
+    "submission_url": "https://codeforces.com/contest/471/submission/83616494",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/13/2020 19:14"
+  },
   "CF83617910": {
     "contest_id": 1183,
     "language": "Python 3",
