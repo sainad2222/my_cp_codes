@@ -1,4 +1,20 @@
 {
+  "AC14325729": {
+    "contest_id": "abc170",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc170/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Forbidden List",
+    "problem_url": "https://atcoder.jp/contests/abc170/tasks/abc170_c",
+    "submission_id": "AC14325729",
+    "submission_url": "https://atcoder.jp/contests/abc170/submissions/14325729",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/14/2020 18:09"
+  },
   "AC14526795": {
     "contest_id": "abc171",
     "language": "Python (3.8.2)",
