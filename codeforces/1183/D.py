@@ -1,51 +1,36 @@
+from __future__ import division, print_function
+
 import os
 import sys
 from io import BytesIO, IOBase
-from collections import Counter
+
+if sys.version_info[0] < 3:
+    from __builtin__ import xrange as range
+    from future_builtins import ascii, filter, hex, map, oct, zip
 
 def main():
     for _ in range(int(input())):
         n = int(input())
         lis = list(map(int,input().split()))
-        counter = Counter(lis)
+        x={}
+        for i in lis:
+            if i not in x:
+                x[i]=1
+            else:
+                x[i]+=1
+        res = list(x.values())
+        visited = []
+        res = sorted(res,reverse=True)
         ans = 0
-        fin = list(counter.values())
-        fin = sorted(fin,reverse=True)
-        vis = set()
-        for elem in fin:
-            cur = elem
-            while cur in vis:
-                cur-=1
-            if cur<=0:
-                break
-            ans+=cur
-            vis.add(cur)
+        for i in res:
+            while(i in visited and i>0):
+                i-=1
+            visited.append(i)
+            ans+=i
         print(ans)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # region fastio
-# Credits
-# # template credits to cheran-senthil's github Repo
 
 BUFSIZE = 8192
 
@@ -94,7 +79,25 @@ class IOWrapper(IOBase):
         self.readline = lambda: self.buffer.readline().decode("ascii")
 
 
-sys.stdin, sys.stdout = IOWrapper(sys.stdin), IOWrapper(sys.stdout)
+def print(*args, **kwargs):
+    """Prints the values to a stream, or to sys.stdout by default."""
+    sep, file = kwargs.pop("sep", " "), kwargs.pop("file", sys.stdout)
+    at_start = True
+    for x in args:
+        if not at_start:
+            file.write(sep)
+        file.write(str(x))
+        at_start = False
+    file.write(kwargs.pop("end", "\n"))
+    if kwargs.pop("flush", False):
+        file.flush()
+
+
+if sys.version_info[0] < 3:
+    sys.stdin, sys.stdout = FastIO(sys.stdin), FastIO(sys.stdout)
+else:
+    sys.stdin, sys.stdout = IOWrapper(sys.stdin), IOWrapper(sys.stdout)
+
 input = lambda: sys.stdin.readline().rstrip("\r\n")
 
 # endregion

@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF83768008": {
+    "contest_id": 1183,
+    "language": "PyPy 2",
+    "path": "codeforces/1183/D.py",
+    "problem_index": "D",
+    "problem_name": "Candy Box (easy version)",
+    "problem_url": "https://codeforces.com/contest/1183/problem/D",
+    "submission_id": "CF83768008",
+    "submission_url": "https://codeforces.com/contest/1183/submission/83768008",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/14/2020 22:18"
+  },
   "CF83768364": {
     "contest_id": 43,
     "language": "PyPy 2",
