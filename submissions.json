@@ -1,4 +1,20 @@
 {
+  "AC14305052": {
+    "contest_id": "abc170",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc170/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Crane and Turtle",
+    "problem_url": "https://atcoder.jp/contests/abc170/tasks/abc170_b",
+    "submission_id": "AC14305052",
+    "submission_url": "https://atcoder.jp/contests/abc170/submissions/14305052",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/14/2020 17:42"
+  },
   "AC14325729": {
     "contest_id": "abc170",
     "language": "Python (3.8.2)",
