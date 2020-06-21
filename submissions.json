@@ -1,4 +1,20 @@
 {
+  "AC14596075": {
+    "contest_id": "abc171",
+    "language": "Python (3.8.2)",
+    "path": "atcoder/abc171/E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Red Scarf",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_e",
+    "submission_id": "AC14596075",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/14596075",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/21/2020 22:01"
+  },
   "AC14966978": {
     "contest_id": "abc173",
     "language": "Python (3.8.2)",
