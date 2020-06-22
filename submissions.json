@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF84671138": {
+    "contest_id": 34,
+    "language": "Python 3",
+    "path": "codeforces/34/B.py",
+    "problem_index": "B",
+    "problem_name": "Sale",
+    "problem_url": "https://codeforces.com/contest/34/problem/B",
+    "submission_id": "CF84671138",
+    "submission_url": "https://codeforces.com/contest/34/submission/84671138",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jun/22/2020 19:55"
+  },
   "CF84752331": {
     "contest_id": 1369,
     "language": "Python 3",
