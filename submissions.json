@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF84669578": {
+    "contest_id": 157,
+    "language": "Python 3",
+    "path": "codeforces/157/B.py",
+    "problem_index": "B",
+    "problem_name": "Trace",
+    "problem_url": "https://codeforces.com/contest/157/problem/B",
+    "submission_id": "CF84669578",
+    "submission_url": "https://codeforces.com/contest/157/submission/84669578",
+    "tags": [
+      "geometry",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jun/22/2020 19:39"
+  },
   "CF84671138": {
     "contest_id": 34,
     "language": "Python 3",
