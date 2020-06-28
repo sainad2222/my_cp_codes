@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF85385447": {
+    "contest_id": 1374,
+    "language": "Python 3",
+    "path": "codeforces/1374/B.py",
+    "problem_index": "B",
+    "problem_name": "Multiply by 2, divide by 6",
+    "problem_url": "https://codeforces.com/contest/1374/problem/B",
+    "submission_id": "CF85385447",
+    "submission_url": "https://codeforces.com/contest/1374/submission/85385447",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/28/2020 22:08"
+  },
   "CF85454572": {
     "contest_id": 1294,
     "language": "Python 3",
