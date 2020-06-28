@@ -645,6 +645,18 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF85385235": {
+    "contest_id": 1374,
+    "language": "Python 3",
+    "path": "codeforces/1374/A.py",
+    "problem_index": "A",
+    "problem_name": "Required Remainder",
+    "problem_url": "https://codeforces.com/contest/1374/problem/A",
+    "submission_id": "CF85385235",
+    "submission_url": "https://codeforces.com/contest/1374/submission/85385235",
+    "tags": [],
+    "timestamp": "Jun/28/2020 22:07"
+  },
   "CF85385447": {
     "contest_id": 1374,
     "language": "Python 3",
