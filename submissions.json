@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF85454572": {
+    "contest_id": 1294,
+    "language": "Python 3",
+    "path": "codeforces/1294/A.py",
+    "problem_index": "A",
+    "problem_name": "Collecting Coins",
+    "problem_url": "https://codeforces.com/contest/1294/problem/A",
+    "submission_id": "CF85454572",
+    "submission_url": "https://codeforces.com/contest/1294/submission/85454572",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/29/2020 17:41"
+  },
   "CF85456629": {
     "contest_id": 1237,
     "language": "Python 3",
