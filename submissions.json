@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF85690162": {
+    "contest_id": 1371,
+    "language": "Python 3",
+    "path": "codeforces/1371/C.py",
+    "problem_index": "C",
+    "problem_name": "A Cookie for You",
+    "problem_url": "https://codeforces.com/contest/1371/problem/C",
+    "submission_id": "CF85690162",
+    "submission_url": "https://codeforces.com/contest/1371/submission/85690162",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jul/01/2020 20:54"
+  },
   "CF85760892": {
     "contest_id": 584,
     "language": "Python 3",
