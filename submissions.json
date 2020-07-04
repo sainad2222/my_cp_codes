@@ -645,6 +645,24 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF85954616": {
+    "contest_id": 1368,
+    "language": "PyPy 2",
+    "path": "codeforces/1368/A.py",
+    "problem_index": "A",
+    "problem_name": "C+=",
+    "problem_url": "https://codeforces.com/contest/1368/problem/A",
+    "submission_id": "CF85954616",
+    "submission_url": "https://codeforces.com/contest/1368/submission/85954616",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/04/2020 20:54"
+  },
   "CF86035470": {
     "contest_id": 1375,
     "language": "Python 3",
