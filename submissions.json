@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86128512": {
+    "contest_id": 965,
+    "language": "Python 3",
+    "path": "codeforces/965/A.py",
+    "problem_index": "A",
+    "problem_name": "Paper Airplanes",
+    "problem_url": "https://codeforces.com/contest/965/problem/A",
+    "submission_id": "CF86128512",
+    "submission_url": "https://codeforces.com/contest/965/submission/86128512",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/06/2020 18:57"
+  },
   "CF86364142": {
     "contest_id": 61,
     "language": "Python 3",
