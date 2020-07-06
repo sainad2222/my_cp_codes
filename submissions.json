@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86127700": {
+    "contest_id": 1146,
+    "language": "Python 3",
+    "path": "codeforces/1146/A.py",
+    "problem_index": "A",
+    "problem_name": "Love \"A\"",
+    "problem_url": "https://codeforces.com/contest/1146/problem/A",
+    "submission_id": "CF86127700",
+    "submission_url": "https://codeforces.com/contest/1146/submission/86127700",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/06/2020 18:46"
+  },
   "CF86127945": {
     "contest_id": 822,
     "language": "Python 3",
