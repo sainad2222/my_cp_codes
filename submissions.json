@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86365019": {
+    "contest_id": 104,
+    "language": "Python 3",
+    "path": "codeforces/104/A.py",
+    "problem_index": "A",
+    "problem_name": "Blackjack",
+    "problem_url": "https://codeforces.com/contest/104/problem/A",
+    "submission_id": "CF86365019",
+    "submission_url": "https://codeforces.com/contest/104/submission/86365019",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/09/2020 21:26"
+  },
   "CF86444342": {
     "contest_id": 615,
     "language": "Python 3",
