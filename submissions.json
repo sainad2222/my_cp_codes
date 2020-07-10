@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86444342": {
+    "contest_id": 615,
+    "language": "Python 3",
+    "path": "codeforces/615/A.py",
+    "problem_index": "A",
+    "problem_name": "Bulbs",
+    "problem_url": "https://codeforces.com/contest/615/problem/A",
+    "submission_id": "CF86444342",
+    "submission_url": "https://codeforces.com/contest/615/submission/86444342",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/10/2020 21:42"
+  },
   "CF86445480": {
     "contest_id": 127,
     "language": "Python 3",
