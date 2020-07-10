@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86445480": {
+    "contest_id": 127,
+    "language": "Python 3",
+    "path": "codeforces/127/A.py",
+    "problem_index": "A",
+    "problem_name": "Wasted Time",
+    "problem_url": "https://codeforces.com/contest/127/problem/A",
+    "submission_id": "CF86445480",
+    "submission_url": "https://codeforces.com/contest/127/submission/86445480",
+    "tags": [
+      "geometry",
+      "*900"
+    ],
+    "timestamp": "Jul/10/2020 21:58"
+  },
   "CF86499107": {
     "contest_id": 1354,
     "language": "PyPy 2",
