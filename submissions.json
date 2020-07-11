@@ -645,6 +645,24 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86499107": {
+    "contest_id": 1354,
+    "language": "PyPy 2",
+    "path": "codeforces/1354/B.py",
+    "problem_index": "B",
+    "problem_name": "Ternary String",
+    "problem_url": "https://codeforces.com/contest/1354/problem/B",
+    "submission_id": "CF86499107",
+    "submission_url": "https://codeforces.com/contest/1354/submission/86499107",
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Jul/11/2020 17:08"
+  },
   "CF86514422": {
     "contest_id": 1372,
     "language": "Python 3",
