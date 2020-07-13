@@ -645,6 +645,25 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86733195": {
+    "contest_id": 1380,
+    "language": "Python 3",
+    "path": "codeforces/1380/C.py",
+    "problem_index": "C",
+    "problem_name": "Create The Teams",
+    "problem_url": "https://codeforces.com/contest/1380/problem/C",
+    "submission_id": "CF86733195",
+    "submission_url": "https://codeforces.com/contest/1380/submission/86733195",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jul/13/2020 14:33"
+  },
   "CF86843193": {
     "contest_id": 408,
     "language": "Python 3",
