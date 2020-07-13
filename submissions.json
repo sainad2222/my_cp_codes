@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86731956": {
+    "contest_id": 1380,
+    "language": "Python 3",
+    "path": "codeforces/1380/B.py",
+    "problem_index": "B",
+    "problem_name": "Universal Solution",
+    "problem_url": "https://codeforces.com/contest/1380/problem/B",
+    "submission_id": "CF86731956",
+    "submission_url": "https://codeforces.com/contest/1380/submission/86731956",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jul/13/2020 14:14"
+  },
   "CF86733195": {
     "contest_id": 1380,
     "language": "Python 3",
