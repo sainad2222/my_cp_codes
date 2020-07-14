@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86843193": {
+    "contest_id": 408,
+    "language": "Python 3",
+    "path": "codeforces/408/A.py",
+    "problem_index": "A",
+    "problem_name": "Line to Cashier",
+    "problem_url": "https://codeforces.com/contest/408/problem/A",
+    "submission_id": "CF86843193",
+    "submission_url": "https://codeforces.com/contest/408/submission/86843193",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/14/2020 20:45"
+  },
   "CF86924761": {
     "contest_id": 32,
     "language": "Python 3",
