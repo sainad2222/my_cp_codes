@@ -645,6 +645,26 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF86983606": {
+    "contest_id": 202,
+    "language": "Python 3",
+    "path": "codeforces/202/A.py",
+    "problem_index": "A",
+    "problem_name": "LLPS",
+    "problem_url": "https://codeforces.com/contest/202/problem/A",
+    "submission_id": "CF86983606",
+    "submission_url": "https://codeforces.com/contest/202/submission/86983606",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/16/2020 17:11"
+  },
   "CF87095487": {
     "contest_id": 1385,
     "language": "Python 3",
