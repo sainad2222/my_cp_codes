@@ -645,6 +645,25 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF87219335": {
+    "contest_id": 1385,
+    "language": "PyPy 2",
+    "path": "codeforces/1385/D.py",
+    "problem_index": "D",
+    "problem_name": "a-Good String",
+    "problem_url": "https://codeforces.com/contest/1385/problem/D",
+    "submission_id": "CF87219335",
+    "submission_url": "https://codeforces.com/contest/1385/submission/87219335",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "divide and conquer",
+      "dp",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jul/18/2020 15:53"
+  },
   "CF87524739": {
     "contest_id": 1382,
     "language": "Python 3",
