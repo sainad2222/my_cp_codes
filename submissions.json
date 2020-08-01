@@ -645,6 +645,24 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF88641056": {
+    "contest_id": 1388,
+    "language": "Python 3",
+    "path": "codeforces/1388/A.py",
+    "problem_index": "A",
+    "problem_name": "Captain Flint and Crew Recruitment",
+    "problem_url": "https://codeforces.com/contest/1388/problem/A",
+    "submission_id": "CF88641056",
+    "submission_url": "https://codeforces.com/contest/1388/submission/88641056",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Aug/01/2020 12:35"
+  },
   "CF88641838": {
     "contest_id": 1388,
     "language": "Python 3",
