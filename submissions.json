@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF88641838": {
+    "contest_id": 1388,
+    "language": "Python 3",
+    "path": "codeforces/1388/B.py",
+    "problem_index": "B",
+    "problem_name": "Captain Flint and a Long Voyage",
+    "problem_url": "https://codeforces.com/contest/1388/problem/B",
+    "submission_id": "CF88641838",
+    "submission_url": "https://codeforces.com/contest/1388/submission/88641838",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Aug/01/2020 12:45"
+  },
   "CF89058048": {
     "contest_id": 1399,
     "language": "Python 3",
