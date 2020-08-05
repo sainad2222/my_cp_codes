@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF89058048": {
+    "contest_id": 1399,
+    "language": "Python 3",
+    "path": "codeforces/1399/A.py",
+    "problem_index": "A",
+    "problem_name": "Remove Smallest",
+    "problem_url": "https://codeforces.com/contest/1399/problem/A",
+    "submission_id": "CF89058048",
+    "submission_url": "https://codeforces.com/contest/1399/submission/89058048",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Aug/05/2020 22:58"
+  },
   "CF89058973": {
     "contest_id": 1399,
     "language": "Python 3",
