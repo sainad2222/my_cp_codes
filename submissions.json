@@ -645,6 +645,21 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF89701010": {
+    "contest_id": 1395,
+    "language": "Python 3",
+    "path": "codeforces/1395/B.py",
+    "problem_index": "B",
+    "problem_name": "Boboniu Plays Chess",
+    "problem_url": "https://codeforces.com/contest/1395/problem/B",
+    "submission_id": "CF89701010",
+    "submission_url": "https://codeforces.com/contest/1395/submission/89701010",
+    "tags": [
+      "constructive algorithms",
+      "*1100"
+    ],
+    "timestamp": "Aug/12/2020 21:03"
+  },
   "CF89996856": {
     "contest_id": 1398,
     "language": "Python 3",
