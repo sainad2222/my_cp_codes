@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF89996856": {
+    "contest_id": 1398,
+    "language": "Python 3",
+    "path": "codeforces/1398/A.py",
+    "problem_index": "A",
+    "problem_name": "Bad Triangle",
+    "problem_url": "https://codeforces.com/contest/1398/problem/A",
+    "submission_id": "CF89996856",
+    "submission_url": "https://codeforces.com/contest/1398/submission/89996856",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/15/2020 12:59"
+  },
   "CF89997297": {
     "contest_id": 1398,
     "language": "Python 3",
