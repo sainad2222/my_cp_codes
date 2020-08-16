@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF90171579": {
+    "contest_id": 1392,
+    "language": "GNU C++17",
+    "path": "codeforces/1392/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Omkar and Password",
+    "problem_url": "https://codeforces.com/contest/1392/problem/A",
+    "submission_id": "CF90171579",
+    "submission_url": "https://codeforces.com/contest/1392/submission/90171579",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/17/2020 00:52"
+  },
   "CF90171994": {
     "contest_id": 1392,
     "language": "GNU C++17",
