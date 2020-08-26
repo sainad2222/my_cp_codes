@@ -53,8 +53,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 102 | [A - Prison Break](https://codeforces.com/contest/1457/problem/A) | [PyPy 3](./codeforces/1457/A.py) | `brute force` `math` `*800` | Nov/29/2020 12:41 | 
 101 | [B - Unique Bid Auction](https://codeforces.com/contest/1454/problem/B) | [PyPy 3](./codeforces/1454/B.py) | `implementation` `*800` | Nov/25/2020 11:55 | 
 100 | [A - Special Permutation](https://codeforces.com/contest/1454/problem/A) | [PyPy 3](./codeforces/1454/A.py) | `constructive algorithms` `probabilities` `*800` | Nov/25/2020 11:53 | 
-99 | [D - Number into Sequence](https://codeforces.com/contest/1454/problem/D) | [PyPy 3](./codeforces/1454/D.py) | `constructive algorithms` `math` `number theory` `*1300` | Nov/25/2020 11:51 | 
-98 | [C - Sequence Transformation](https://codeforces.com/contest/1454/problem/C) | [PyPy 3](./codeforces/1454/C.py) | `greedy` `implementation` `*1200` | Nov/25/2020 11:51 | 
+99 | [C - Sequence Transformation](https://codeforces.com/contest/1454/problem/C) | [PyPy 3](./codeforces/1454/C.py) | `greedy` `implementation` `*1200` | Nov/25/2020 11:51 | 
+98 | [D - Number into Sequence](https://codeforces.com/contest/1454/problem/D) | [PyPy 3](./codeforces/1454/D.py) | `constructive algorithms` `math` `number theory` `*1300` | Nov/25/2020 11:51 | 
 97 | [C - String Equality](https://codeforces.com/contest/1451/problem/C) | [PyPy 3](./codeforces/1451/C.py) | `dp` `greedy` `hashing` `implementation` `strings` `*1400` | Nov/22/2020 11:22 | 
 96 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [PyPy 3](./codeforces/1451/B.py) | `dp` `greedy` `implementation` `strings` `*900` | Nov/21/2020 21:05 | 
 95 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [PyPy 3](./codeforces/1451/A.py) | `greedy` `math` `*800` | Nov/21/2020 20:17 | 
@@ -82,8 +82,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 73 | [A - Vitaly and Strings](https://codeforces.com/contest/518/problem/A) | [PyPy 3](./codeforces/518/A.py) | `constructive algorithms` `strings` `*1600` | Nov/01/2020 11:43 | 
 72 | [A - Flipping Game](https://codeforces.com/contest/327/problem/A) | [PyPy 3](./codeforces/327/A.py) | `brute force` `dp` `implementation` `*1200` | Nov/01/2020 10:54 | 
 71 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [PyPy 3](./codeforces/466/A.py) | `implementation` `*1200` | Nov/01/2020 10:12 | 
-70 | [A - Avoiding Zero](https://codeforces.com/contest/1427/problem/A) | [PyPy 3](./codeforces/1427/A.py) | `math` `sortings` `*900` | Nov/01/2020 09:36 | 
-69 | [B - Chess Cheater](https://codeforces.com/contest/1427/problem/B) | [PyPy 3](./codeforces/1427/B.py) | `greedy` `implementation` `sortings` `*1400` | Nov/01/2020 09:36 | 
+70 | [B - Chess Cheater](https://codeforces.com/contest/1427/problem/B) | [PyPy 3](./codeforces/1427/B.py) | `greedy` `implementation` `sortings` `*1400` | Nov/01/2020 09:36 | 
+69 | [A - Avoiding Zero](https://codeforces.com/contest/1427/problem/A) | [PyPy 3](./codeforces/1427/A.py) | `math` `sortings` `*900` | Nov/01/2020 09:36 | 
 68 | [B - Vanya and Books](https://codeforces.com/contest/552/problem/B) | [PyPy 3](./codeforces/552/B.py) | `implementation` `math` `*1200` | Nov/01/2020 09:32 | 
 67 | [A - Little Pony and Crystal Mine](https://codeforces.com/contest/454/problem/A) | [PyPy 3](./codeforces/454/A.py) | `implementation` `*800` | Oct/31/2020 12:36 | 
 66 | [B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | [PyPy 3](./codeforces/454/B.py) | `implementation` `*1200` | Oct/31/2020 12:18 | 
@@ -92,8 +92,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 63 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [GNU C++17](./codeforces/1437/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Oct/27/2020 22:38 | 
 62 | [B - Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | [GNU C++17](./codeforces/1437/B.cpp) | `constructive algorithms` `greedy` `*1200` | Oct/27/2020 22:37 | 
 61 | [A - Finding Sasuke](https://codeforces.com/contest/1435/problem/A) | [PyPy 3](./codeforces/1435/A.py) | `math` `*800` | Oct/27/2020 17:06 | 
-60 | [B - Prime Square](https://codeforces.com/contest/1436/problem/B) | [GNU C++17](./codeforces/1436/B.cpp) | `constructive algorithms` `math` `*900` | Oct/24/2020 23:13 | 
-59 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [GNU C++17](./codeforces/1436/A.cpp) | `math` `*800` | Oct/24/2020 23:13 | 
+60 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [GNU C++17](./codeforces/1436/A.cpp) | `math` `*800` | Oct/24/2020 23:13 | 
+59 | [B - Prime Square](https://codeforces.com/contest/1436/problem/B) | [GNU C++17](./codeforces/1436/B.cpp) | `constructive algorithms` `math` `*900` | Oct/24/2020 23:13 | 
 58 | [E - Two Round Dances](https://codeforces.com/contest/1433/problem/E) | [PyPy 3](./codeforces/1433/E.py) | `combinatorics` `math` `*1300` | Oct/21/2020 11:13 | 
 57 | [D - Districts Connection](https://codeforces.com/contest/1433/problem/D) | [PyPy 3](./codeforces/1433/D.py) | `constructive algorithms` `dfs and similar` `*1200` | Oct/21/2020 11:09 | 
 56 | [C - Dominant Piranha](https://codeforces.com/contest/1433/problem/C) | [PyPy 3](./codeforces/1433/C.py) | `constructive algorithms` `greedy` `*900` | Oct/20/2020 20:38 | 
