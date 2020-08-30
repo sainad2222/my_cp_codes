@@ -17,7 +17,7 @@ int i = 0,j = 0,k = 0;
 using namespace std;
 void solve(){
 	read(n);
-        unordered_map<char, int> mp;
+        map<char, int> mp;
         FOR(0, n){
             string s;
             cin >> s;
