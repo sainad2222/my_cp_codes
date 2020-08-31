@@ -645,6 +645,24 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF91481377": {
+    "contest_id": 1397,
+    "language": "PyPy 2",
+    "path": "codeforces/1397/B.py",
+    "problem_index": "B",
+    "problem_name": "Power Sequence",
+    "problem_url": "https://codeforces.com/contest/1397/problem/B",
+    "submission_id": "CF91481377",
+    "submission_url": "https://codeforces.com/contest/1397/submission/91481377",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Aug/31/2020 15:56"
+  },
   "CF91481474": {
     "contest_id": 1397,
     "language": "PyPy 2",

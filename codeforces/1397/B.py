@@ -91,18 +91,18 @@ def main():
     c = 1
     # Finding c so that it is just greater than max
     while True:
-        if pow(c, n - 1) > ma:
+        if c**(n-1) > ma:
             break
         c += 1
     # case-I(just greater than min)
     cost1 = 0
     for i in range(n):
-        cost1 += (abs(lis[i] - pow(c, i)))
+        cost1 += (abs(lis[i] - c**i))
     c -= 1
     # case-II(just smaller than max)
     cost2 = 0
     for i in range(n):
-        cost2 += (abs(lis[i] - pow(c, i)))
+        cost2 += (abs(lis[i] - c**i))
     print(min(cost2, cost1))
 
 
