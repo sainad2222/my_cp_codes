@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF92588932": {
+    "contest_id": 1406,
+    "language": "PyPy 3",
+    "path": "codeforces/1406/A.py",
+    "problem_index": "A",
+    "problem_name": "Subset Mex",
+    "problem_url": "https://codeforces.com/contest/1406/problem/A",
+    "submission_id": "CF92588932",
+    "submission_url": "https://codeforces.com/contest/1406/submission/92588932",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Sep/12/2020 19:27"
+  },
   "CF92601134": {
     "contest_id": 1406,
     "language": "PyPy 3",
