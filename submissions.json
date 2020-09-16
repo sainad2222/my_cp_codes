@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF92945993": {
+    "contest_id": 1418,
+    "language": "PyPy 3",
+    "path": "codeforces/1418/B.py",
+    "problem_index": "B",
+    "problem_name": "Negative Prefixes",
+    "problem_url": "https://codeforces.com/contest/1418/problem/B",
+    "submission_id": "CF92945993",
+    "submission_url": "https://codeforces.com/contest/1418/submission/92945993",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Sep/16/2020 10:33"
+  },
   "CF93449456": {
     "contest_id": 750,
     "language": "PyPy 3",
