@@ -1,23 +1,36 @@
+from types import GeneratorType
+def bootstrap(f, stack=[]):
+    def wrappedfunc(*args, **kwargs):
+        if stack:
+            return f(*args, **kwargs)
+        else:
+            to = f(*args, **kwargs)
+            while True:
+                if type(to) is GeneratorType:
+                    stack.append(to)
+                    to = next(to)
+                else:
+                    stack.pop()
+                    if not stack:
+                        break
+                    to = stack[-1].send(to)
+            return to
+    return wrappedfunc
 n, k = map(int, input().split())
-lis = list(map(int,input().split()))
-# dp = {}
-def TD(i):
-    if i in dp:
-        return dp[i]
-    if i == n-1:
-        return 0
+lis = list(map(int, input().split()))
+dp = {}
+@bootstrap
+def TD(idx):
+    if idx==n-1:
+        yield 0
+    if idx in dp:
+        yield dp[idx]
     mi = float('inf')
-    for j in range(1, k + 1):
-        if i + j < n:
-            mi = min(mi, abs(lis[i + j] - lis[i]) + TD(i + j))
-    dp[i] = mi
-    return mi
-# print(TD(0))
-
-dp = [float('inf') for i in range(n)]
-dp[0] = 0
-for i in range(n):
-    for j in range(1, k + 1):
-        if i+j<n:
-            dp[i+j] = min(dp[i+j], abs(lis[i] - lis[i +j]) + dp[i])
-print(dp[n - 1])
+    for i in range(1, k + 1):
+        if i+idx < n:
+            tmpx = yield TD(idx+i)
+            tmp = abs(lis[idx]-lis[i+idx])+tmpx
+            mi = min(mi, tmp)
+    dp[idx] = mi
+    yield mi
+print(TD(0))
