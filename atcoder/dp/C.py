@@ -1,54 +1,15 @@
-from types import GeneratorType
-def bootstrap(f, stack=[]):
-    def wrappedfunc(*args, **kwargs):
-        if stack:
-            return f(*args, **kwargs)
-        else:
-            to = f(*args, **kwargs)
-            while True:
-                if type(to) is GeneratorType:
-                    stack.append(to)
-                    to = next(to)
-                else:
-                    stack.pop()
-                    if not stack:
-                        break
-                    to = stack[-1].send(to)
-            return to
-    return wrappedfunc
 n = int(input())
-a = []
+arr = []
 for i in range(n):
     tmp = list(map(int,input().split()))
-    a.append(tmp)
-dp = {}
+    arr.append(tmp)
+dp = [[0] * 3 for i in range(n)]
+dp[0][0] = arr[0][0]
+dp[0][1] = arr[0][1]
+dp[0][2] = arr[0][2]
 
-@bootstrap
-def DP(day, flag):
-    key = (day,flag)
-    if day == n:
-        yield 0
-
-    if key in dp:
-        yield dp[key]
-    
-    ans = 0
-    tmp1 = yield DP(day+1,1)
-    tmp2 = yield DP(day+1,2)
-    tmp3 = yield DP(day+1,3)
-    if flag == 0:
-        ans = max(ans, a[day][0] + tmp1)
-        ans = max(ans, a[day][1] + tmp2)
-        ans = max(ans, a[day][2] + tmp3)
-    elif flag == 1:
-        ans = max(ans, a[day][1] + tmp2)
-        ans = max(ans, a[day][2] + tmp3)
-    elif flag==2:
-        ans = max(ans, a[day][0] + tmp1)
-        ans = max(ans, a[day][2] + tmp3)
-    else:
-        ans = max(ans, a[day][0] + tmp1)
-        ans = max(ans, a[day][1] + tmp2)
-    dp[key] = ans
-    yield ans
-print(DP(0,0))
+for i in range(1, n):
+    dp[i][0] = arr[i][0] + max(dp[i - 1][1], dp[i - 1][2])
+    dp[i][1] = arr[i][1] + max(dp[i - 1][0], dp[i - 1][2])
+    dp[i][2] = arr[i][2] + max(dp[i - 1][0], dp[i - 1][1])
+print(max(dp[n - 1][0], dp[n - 1][1], dp[n - 1][2]))
