@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF94025327": {
+    "contest_id": 1417,
+    "language": "PyPy 3",
+    "path": "codeforces/1417/A.py",
+    "problem_index": "A",
+    "problem_name": "Copy-paste",
+    "problem_url": "https://codeforces.com/contest/1417/problem/A",
+    "submission_id": "CF94025327",
+    "submission_url": "https://codeforces.com/contest/1417/submission/94025327",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/27/2020 23:51"
+  },
   "CF94113870": {
     "contest_id": 1426,
     "language": "PyPy 3",
