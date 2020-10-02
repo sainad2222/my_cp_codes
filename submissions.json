@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF94489279": {
+    "contest_id": 808,
+    "language": "PyPy 3",
+    "path": "codeforces/808/B.py",
+    "problem_index": "B",
+    "problem_name": "Average Sleep Time",
+    "problem_url": "https://codeforces.com/contest/808/problem/B",
+    "submission_id": "CF94489279",
+    "submission_url": "https://codeforces.com/contest/808/submission/94489279",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/02/2020 18:14"
+  },
   "CF94493781": {
     "contest_id": 508,
     "language": "PyPy 3",
