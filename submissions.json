@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF94633183": {
+    "contest_id": 88,
+    "language": "PyPy 3",
+    "path": "codeforces/88/A.py",
+    "problem_index": "A",
+    "problem_name": "Chord",
+    "problem_url": "https://codeforces.com/contest/88/problem/A",
+    "submission_id": "CF94633183",
+    "submission_url": "https://codeforces.com/contest/88/submission/94633183",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/04/2020 15:16"
+  },
   "CF94769658": {
     "contest_id": 610,
     "language": "PyPy 3",
