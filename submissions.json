@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF94771024": {
+    "contest_id": 765,
+    "language": "PyPy 3",
+    "path": "codeforces/765/A.py",
+    "problem_index": "A",
+    "problem_name": "Neverending competitions",
+    "problem_url": "https://codeforces.com/contest/765/problem/A",
+    "submission_id": "CF94771024",
+    "submission_url": "https://codeforces.com/contest/765/submission/94771024",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/05/2020 18:51"
+  },
   "CF94772017": {
     "contest_id": 616,
     "language": "PyPy 3",
