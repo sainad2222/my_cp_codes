@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF94772017": {
+    "contest_id": 616,
+    "language": "PyPy 3",
+    "path": "codeforces/616/A.py",
+    "problem_index": "A",
+    "problem_name": "Comparing Two Long Integers",
+    "problem_url": "https://codeforces.com/contest/616/problem/A",
+    "submission_id": "CF94772017",
+    "submission_url": "https://codeforces.com/contest/616/submission/94772017",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Oct/05/2020 19:00"
+  },
   "CF94772507": {
     "contest_id": 276,
     "language": "PyPy 3",
