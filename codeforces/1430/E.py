@@ -1,6 +1,49 @@
-from collections import deque, defaultdict
+from collections import defaultdict,deque
 n = int(input())
 s = input()
+
+def mergesort(arr, n):
+    temp_arr = [0] * n
+    return _mergesort(arr, temp_arr, 0, n - 1)
+
+def _mergesort(arr, temp, l, r):
+    ans = 0
+    if l < r:
+        mid = (l + r) // 2
+        ans += _mergesort(arr, temp, l, mid)
+        ans += _mergesort(arr, temp, mid + 1, r)
+        ans += merge(arr, temp, l, mid, r)
+    return ans
+
+def merge(arr, temp, l, mid, r):
+    count = 0
+    i = l
+    j = mid + 1
+    nxt = l
+    while i <= mid and j <= r:
+        if arr[i] <= arr[j]:
+            temp[nxt] = arr[i]
+            nxt += 1
+            i += 1
+        else:
+            count += (mid - i + 1)
+            temp[nxt] = arr[j]
+            nxt += 1
+            j += 1
+    
+    while i <= mid:
+        temp[nxt] = arr[i]
+        nxt += 1
+        i += 1
+    
+    while j <= r:
+        temp[nxt] = arr[j]
+        nxt += 1
+        j += 1
+    
+    arr[l:r+1] = temp[l:r+1][:]
+    
+    return count
 
 dic = defaultdict(lambda: deque())
 rev = s[::-1]
@@ -9,45 +52,5 @@ for i,char in enumerate(rev):
 arr = []
 for i in s:
     arr.append(dic[i].popleft())
-
-class BIT:
-    def __init__(self, lis, n):
-        self.n = n
-        self.array = [0] + lis
-        for idx in range(1,n):
-            idx2 = idx+(idx & -idx)
-            if idx2 < n:
-                self.array[idx2] += self.array[idx]
-    
-    def prefix_query(self,idx):
-        idx+=1
-        result = 0
-        while idx > 0:
-            result += self.array[idx]
-            idx -= (idx & -idx)
-        return result
-    
-    def range_query(self, from_idx, to_idx):
-        return self.prefix_query(to_idx) - self.prefix_query(from_idx-1)
-    
-    def update(self,idx,add):
-        idx+=1
-        while idx<=self.n:
-            self.array[idx]+=add
-            idx += (idx & -idx)
-        
-        
-    def __str__(self):
-        return ' '.join(map(str,self.array))
-
 n = len(arr)
-ma = max(arr)
-lis = [0] * (ma)
-bit = BIT(lis, ma)
-ans = 0
-for i in range(n):
-    # print(ma - 1, arr[i] - 1)
-    ans += bit.range_query(ma, arr[i]-1)
-    bit.update(arr[i] - 1, 1)
-    # print(bit,"    ",ans)
-print(abs(ans))
+print(mergesort(arr,n))
