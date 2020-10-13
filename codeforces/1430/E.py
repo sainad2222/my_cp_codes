@@ -1,49 +1,57 @@
 from collections import defaultdict,deque
 n = int(input())
 s = input()
+# helper function
+def mergesort(arr,n):
+    # temp arr to store sorted array after every merge operation
+    temp_arr = [0]*n
+    return _mergeSort(arr,temp_arr,0,n-1)
 
-def mergesort(arr, n):
-    temp_arr = [0] * n
-    return _mergesort(arr, temp_arr, 0, n - 1)
+# main function
+def _mergeSort(arr,temp_arr,left,right):
+    inv_count = 0
+    if left<right:
+        mid = (left+right)//2
+        inv_count += _mergeSort(arr,temp_arr,left,mid)
+        inv_count += _mergeSort(arr,temp_arr,mid+1,right)
+        inv_count += merge(arr,temp_arr,left,mid,right)
+    return inv_count
 
-def _mergesort(arr, temp, l, r):
-    ans = 0
-    if l < r:
-        mid = (l + r) // 2
-        ans += _mergesort(arr, temp, l, mid)
-        ans += _mergesort(arr, temp, mid + 1, r)
-        ans += merge(arr, temp, l, mid, r)
-    return ans
+# merge function
+def merge(arr,temp_arr,left,mid,right):
+    i = left
+    j = mid+1
+    k = left
+    inv_count = 0
 
-def merge(arr, temp, l, mid, r):
-    count = 0
-    i = l
-    j = mid + 1
-    nxt = l
-    while i <= mid and j <= r:
-        if arr[i] <= arr[j]:
-            temp[nxt] = arr[i]
-            nxt += 1
-            i += 1
+    while i<=mid and j<=right:
+        # no inversion case
+        if arr[i]<=arr[j]:
+            temp_arr[k] = arr[i]
+            k+=1
+            i+=1
+        # inversion case
         else:
-            count += (mid - i + 1)
-            temp[nxt] = arr[j]
-            nxt += 1
-            j += 1
+            temp_arr[k] = arr[j]
+            inv_count += (mid-i+1)
+            k+=1
+            j+=1
     
-    while i <= mid:
-        temp[nxt] = arr[i]
-        nxt += 1
-        i += 1
+    # copying remaining elements if any left
+    while i<=mid:
+        temp_arr[k] = arr[i]
+        k+=1
+        i+=1
+    while j<=right:
+        temp_arr[k] = arr[j]
+        k+=1
+        j+=1
     
-    while j <= r:
-        temp[nxt] = arr[j]
-        nxt += 1
-        j += 1
+    # copying the sorted subarray into original array
+    for i in range(left,right+1):
+        arr[i] = temp_arr[i]
     
-    arr[l:r+1] = temp[l:r+1][:]
-    
-    return count
+    return inv_count
 
 dic = defaultdict(lambda: deque())
 rev = s[::-1]
