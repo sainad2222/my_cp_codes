@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF97282046": {
+    "contest_id": 327,
+    "language": "PyPy 3",
+    "path": "codeforces/327/A.py",
+    "problem_index": "A",
+    "problem_name": "Flipping Game",
+    "problem_url": "https://codeforces.com/contest/327/problem/A",
+    "submission_id": "CF97282046",
+    "submission_url": "https://codeforces.com/contest/327/submission/97282046",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Nov/01/2020 10:54"
+  },
   "CF97284251": {
     "contest_id": 518,
     "language": "PyPy 3",
