@@ -1,4 +1,20 @@
 {
+  "AC17838798": {
+    "contest_id": "abc181",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc181/C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Collinearity",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_c",
+    "submission_id": "AC17838798",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/17838798",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/02/2020 15:21"
+  },
   "AC17839544": {
     "contest_id": "abc181",
     "language": "PyPy3 (7.3.0)",
