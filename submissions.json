@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF98688561": {
+    "contest_id": 1440,
+    "language": "PyPy 3",
+    "path": "codeforces/1440/A.py",
+    "problem_index": "A",
+    "problem_name": "Buy the String",
+    "problem_url": "https://codeforces.com/contest/1440/problem/A",
+    "submission_id": "CF98688561",
+    "submission_url": "https://codeforces.com/contest/1440/submission/98688561",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/17/2020 20:09"
+  },
   "CF98704794": {
     "contest_id": 1440,
     "language": "PyPy 3",
