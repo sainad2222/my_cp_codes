@@ -645,6 +645,24 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF98931821": {
+    "contest_id": 1452,
+    "language": "PyPy 3",
+    "path": "codeforces/1452/B.py",
+    "problem_index": "B",
+    "problem_name": "Toy Blocks",
+    "problem_url": "https://codeforces.com/contest/1452/problem/B",
+    "submission_id": "CF98931821",
+    "submission_url": "https://codeforces.com/contest/1452/submission/98931821",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/19/2020 21:17"
+  },
   "CF99130599": {
     "contest_id": 1451,
     "language": "PyPy 3",
