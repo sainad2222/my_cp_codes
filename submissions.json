@@ -645,6 +645,22 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF98871766": {
+    "contest_id": 596,
+    "language": "PyPy 3",
+    "path": "codeforces/596/B.py",
+    "problem_index": "B",
+    "problem_name": "Wilbur and Array",
+    "problem_url": "https://codeforces.com/contest/596/problem/B",
+    "submission_id": "CF98871766",
+    "submission_url": "https://codeforces.com/contest/596/submission/98871766",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/19/2020 14:30"
+  },
   "CF98900889": {
     "contest_id": 1452,
     "language": "PyPy 3",
