@@ -1,4 +1,20 @@
 {
+  "AC18308353": {
+    "contest_id": "abc184",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc184/B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Quizzes",
+    "problem_url": "https://atcoder.jp/contests/abc184/tasks/abc184_b",
+    "submission_id": "AC18308353",
+    "submission_url": "https://atcoder.jp/contests/abc184/submissions/18308353",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/22/2020 17:32"
+  },
   "AC18721456": {
     "contest_id": "abc185",
     "language": "PyPy3 (7.3.0)",
