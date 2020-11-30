@@ -645,6 +645,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF99975270": {
+    "contest_id": 573,
+    "language": "PyPy 3",
+    "path": "codeforces/573/A.py",
+    "problem_index": "A",
+    "problem_name": "Bear and Poker",
+    "problem_url": "https://codeforces.com/contest/573/problem/A",
+    "submission_id": "CF99975270",
+    "submission_url": "https://codeforces.com/contest/573/submission/99975270",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Nov/30/2020 16:04"
+  },
   "CF99995078": {
     "contest_id": 1455,
     "language": "PyPy 3",
