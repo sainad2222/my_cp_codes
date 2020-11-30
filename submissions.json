@@ -644,5 +644,21 @@
       "*1100"
     ],
     "timestamp": "Dec/23/2020 23:07"
+  },
+  "CF99995078": {
+    "contest_id": 1455,
+    "language": "PyPy 3",
+    "path": "codeforces/1455/A.py",
+    "problem_index": "A",
+    "problem_name": "Strange Functions",
+    "problem_url": "https://codeforces.com/contest/1455/problem/A",
+    "submission_id": "CF99995078",
+    "submission_url": "https://codeforces.com/contest/1455/submission/99995078",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2020 20:08"
   }
 }
