@@ -1,4 +1,19 @@
 {
+  "CF100507919": {
+    "contest_id": 957,
+    "language": "PyPy 3",
+    "path": "codeforces/957/A.py",
+    "problem_index": "A",
+    "problem_name": "Tritonic Iridescence",
+    "problem_url": "https://codeforces.com/contest/957/problem/A",
+    "submission_id": "CF100507919",
+    "submission_url": "https://codeforces.com/contest/957/submission/100507919",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/06/2020 15:21"
+  },
   "CF100530452": {
     "contest_id": 1450,
     "language": "PyPy 3",
