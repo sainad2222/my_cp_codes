@@ -1,4 +1,20 @@
 {
+  "AC18760308": {
+    "contest_id": "abc185",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc185/F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Range Xor Query",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_f",
+    "submission_id": "AC18760308",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18760308",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Dec/13/2020 19:02"
+  },
   "AC18859673": {
     "contest_id": "abc186",
     "language": "PyPy3 (7.3.0)",
