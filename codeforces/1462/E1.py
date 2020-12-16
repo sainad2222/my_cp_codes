@@ -1,5 +1,5 @@
-# NTFS: pajenegod
-# Idea is to for every i find j such that <=+2 for every element and choose
+# NTFS: pajengod
+# Idea is to for every i find j such that <=+2 for every element and choose 
 # any two among those + lis[i] too
 import os
 import sys
@@ -8,19 +8,39 @@ from io import BytesIO, IOBase
 
 def main():
     def choose(n):
-        return n * (n - 1) // 2
-
+        return n*(n-1)//2
     for _ in range(int(input())):
         n = int(input())
-        lis = list(map(int, input().split()))
+        lis = list(map(int,input().split()))
         lis.sort()
         ans = 0
         j = 0
         for i in range(n):
-            while j < n and lis[j] - lis[i] <= 2:
-                j += 1
-            ans += choose(j - 1 - i)
+            while j<n and lis[j]-lis[i]<=2:
+                j+=1
+            ans += choose(j-1-i)
         print(ans)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # region fastio
