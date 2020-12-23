@@ -1,0 +1,17 @@
+{
+  "CF102140842": {
+    "contest_id": 1060,
+    "language": "PyPy 3",
+    "path": "codeforces/1060/B.py",
+    "problem_index": "B",
+    "problem_name": "Maximum Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/1060/problem/B",
+    "submission_id": "CF102140842",
+    "submission_url": "https://codeforces.com/contest/1060/submission/102140842",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Dec/23/2020 23:07"
+  }
+}
