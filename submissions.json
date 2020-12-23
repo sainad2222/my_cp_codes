@@ -1,4 +1,21 @@
 {
+  "CF102102947": {
+    "contest_id": 298,
+    "language": "PyPy 3",
+    "path": "codeforces/298/B.py",
+    "problem_index": "B",
+    "problem_name": "Sail",
+    "problem_url": "https://codeforces.com/contest/298/problem/B",
+    "submission_id": "CF102102947",
+    "submission_url": "https://codeforces.com/contest/298/submission/102102947",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/23/2020 14:36"
+  },
   "CF102104296": {
     "contest_id": 1032,
     "language": "PyPy 3",
