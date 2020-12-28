@@ -1,4 +1,3 @@
-// submitting again for new year magic
 #include <bits/stdc++.h>
 using namespace std;
 #define INT long long
