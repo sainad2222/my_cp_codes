@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-402 | [C - Dominated Subarray](https://codeforces.com/contest/1257/problem/C) | [PyPy 3](./codeforces/1257/C.py) | `greedy` `implementation` `sortings` `strings` `two pointers` `*1200` | Jan/12/2021 02:27 | 
-401 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [PyPy 3](./codeforces/1467/A.py) | `constructive algorithms` `greedy` `math` `sortings` `*900` | Jan/08/2021 23:24 | 
-400 | [A - Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | [GNU C++17](./codeforces/1003/A.cpp) | `implementation` `*800` | Jan/08/2021 18:47 | 
-399 | [A - Strange Partition](https://codeforces.com/contest/1471/problem/A) | [PyPy 3](./codeforces/1471/A.py) | `greedy` `math` `number theory` `*900` | Jan/08/2021 15:13 | 
-398 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [PyPy 3](./codeforces/1472/D.py) | `dp` `games` `greedy` `sortings` `*1200` | Jan/04/2021 21:26 | 
-397 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [PyPy 3](./codeforces/1472/C.py) | `dp` `graphs` `*1100` | Jan/04/2021 21:20 | 
-396 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [PyPy 3](./codeforces/1472/B.py) | `dp` `greedy` `math` `*800` | Jan/04/2021 20:15 | 
-395 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [Python 3](./codeforces/1472/A.py) | `greedy` `math` `*800` | Jan/04/2021 20:09 | 
+403 | [C - Dominated Subarray](https://codeforces.com/contest/1257/problem/C) | [PyPy 3](./codeforces/1257/C.py) | `greedy` `implementation` `sortings` `strings` `two pointers` `*1200` | Jan/12/2021 02:27 | 
+402 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [PyPy 3](./codeforces/1467/A.py) | `constructive algorithms` `greedy` `math` `sortings` `*900` | Jan/08/2021 23:24 | 
+401 | [A - Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | [GNU C++17](./codeforces/1003/A.cpp) | `implementation` `*800` | Jan/08/2021 18:47 | 
+400 | [A - Strange Partition](https://codeforces.com/contest/1471/problem/A) | [PyPy 3](./codeforces/1471/A.py) | `greedy` `math` `number theory` `*900` | Jan/08/2021 15:13 | 
+399 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [PyPy 3](./codeforces/1472/D.py) | `dp` `games` `greedy` `sortings` `*1200` | Jan/04/2021 21:26 | 
+398 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [PyPy 3](./codeforces/1472/C.py) | `dp` `graphs` `*1100` | Jan/04/2021 21:20 | 
+397 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [PyPy 3](./codeforces/1472/B.py) | `dp` `greedy` `math` `*800` | Jan/04/2021 20:15 | 
+396 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [Python 3](./codeforces/1472/A.py) | `greedy` `math` `*800` | Jan/04/2021 20:09 | 
+395 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [GNU C++17](./codeforces/1469/A.cpp) | `constructive algorithms` `greedy` `*1000` | Jan/01/2021 18:23 | 
 394 | [B - Maximum Sum of Digits](https://codeforces.com/contest/1060/problem/B) | [PyPy 3](./codeforces/1060/B.py) | `greedy` `*1100` | Dec/23/2020 23:07 | 
 393 | [C1 - Increasing Subsequence (easy version)](https://codeforces.com/contest/1157/problem/C1) | [GNU C++17](./codeforces/1157/C1.cpp) | `greedy` `*1300` | Dec/23/2020 22:50 | 
 392 | [C - Doors Breaking and Repairing](https://codeforces.com/contest/1102/problem/C) | [PyPy 3](./codeforces/1102/C.py) | `games` `*1200` | Dec/23/2020 15:01 | 
