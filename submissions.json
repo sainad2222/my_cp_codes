@@ -1941,6 +1941,23 @@
     ],
     "timestamp": "Dec/23/2020 23:07"
   },
+  "CF103271353": {
+    "contest_id": 1472,
+    "language": "PyPy 3",
+    "path": "codeforces/1472/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Long Jumps",
+    "problem_url": "https://codeforces.com/contest/1472/problem/C",
+    "submission_id": "CF103271353",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103271353",
+    "tags": [
+      "dp",
+      "graphs",
+      "*1100"
+    ],
+    "timestamp": "Jan/04/2021 21:20"
+  },
   "CF103275665": {
     "contest_id": 1472,
     "language": "PyPy 3",
