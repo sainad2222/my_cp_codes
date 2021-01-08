@@ -1,6 +1,7 @@
 def ceil(a, b):
     return (a + b - 1) // b
 
+
 for _ in range(int(input())):
     n, x = map(int, input().split())
     lis = list(map(int, input().split()))
@@ -28,5 +29,4 @@ for _ in range(int(input())):
         i += 1
     ma += ceil(bank + lis[-1], x)
     print(mi, ma)
-
 
