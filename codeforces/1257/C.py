@@ -1,5 +1,3 @@
-# NTFS: raj1307
-# Idea: min length will be between two occurences of same element so store the indices of all occurences of an element in an array and calculate min length among all of them
 from collections import defaultdict, deque
 for _ in range(int(input())):
     n = int(input())
