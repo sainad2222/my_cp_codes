@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-408 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3](./codeforces/1473/B.py) | `brute force` `math` `strings` | Jan/14/2021 22:06 | 
-407 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [PyPy 3](./codeforces/1473/C.py) | `constructive algorithms` | Jan/14/2021 21:49 | 
-406 | [A - Replacing Elements](https://codeforces.com/contest/1473/problem/A) | [PyPy 3](./codeforces/1473/A.py) | `greedy` `implementation` `sortings` | Jan/14/2021 20:11 | 
-405 | [A - The Wall](https://codeforces.com/contest/340/problem/A) | [PyPy 3](./codeforces/340/A.py) | `math` `*1200` | Jan/12/2021 22:55 | 
+409 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3](./codeforces/1473/B.py) | `brute force` `math` `strings` | Jan/14/2021 22:06 | 
+408 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [PyPy 3](./codeforces/1473/C.py) | `constructive algorithms` | Jan/14/2021 21:49 | 
+407 | [A - Replacing Elements](https://codeforces.com/contest/1473/problem/A) | [PyPy 3](./codeforces/1473/A.py) | `greedy` `implementation` `sortings` | Jan/14/2021 20:11 | 
+406 | [A - The Wall](https://codeforces.com/contest/340/problem/A) | [PyPy 3](./codeforces/340/A.py) | `math` `*1200` | Jan/12/2021 22:55 | 
+405 | [B - Table Tennis](https://codeforces.com/contest/879/problem/B) | [PyPy 3](./codeforces/879/B.py) | `data structures` `implementation` `*1200` | Jan/12/2021 14:44 | 
 404 | [C - Dominated Subarray](https://codeforces.com/contest/1257/problem/C) | [PyPy 3](./codeforces/1257/C.py) | `greedy` `implementation` `sortings` `strings` `two pointers` `*1200` | Jan/12/2021 02:27 | 
 403 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [PyPy 3](./codeforces/1467/A.py) | `constructive algorithms` `greedy` `math` `sortings` `*900` | Jan/08/2021 23:24 | 
 402 | [A - Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | [GNU C++17](./codeforces/1003/A.cpp) | `implementation` `*800` | Jan/08/2021 18:47 | 
