@@ -2244,6 +2244,23 @@
     ],
     "timestamp": "Jan/12/2021 02:27"
   },
+  "CF104286988": {
+    "contest_id": 1473,
+    "language": "PyPy 3",
+    "path": "codeforces/1473/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Replacing Elements",
+    "problem_url": "https://codeforces.com/contest/1473/problem/A",
+    "submission_id": "CF104286988",
+    "submission_url": "https://codeforces.com/contest/1473/submission/104286988",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Jan/14/2021 20:11"
+  },
   "CF104307542": {
     "contest_id": 1473,
     "language": "PyPy 3",
