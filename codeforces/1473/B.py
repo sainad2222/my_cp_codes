@@ -1,4 +1,3 @@
-# NTFS: https://stackoverflow.com/questions/54506366/algorithm-to-generate-an-array-with-n-length-and-k-number-of-inversions-in-on-l
 from math import gcd
 
 
