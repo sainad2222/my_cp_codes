@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-405 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3](./codeforces/1473/B.py) | `brute force` `math` `strings` | Jan/14/2021 22:06 | 
+406 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [PyPy 3](./codeforces/1473/B.py) | `brute force` `math` `strings` | Jan/14/2021 22:06 | 
+405 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [PyPy 3](./codeforces/1473/C.py) | `constructive algorithms` | Jan/14/2021 21:49 | 
 404 | [C - Dominated Subarray](https://codeforces.com/contest/1257/problem/C) | [PyPy 3](./codeforces/1257/C.py) | `greedy` `implementation` `sortings` `strings` `two pointers` `*1200` | Jan/12/2021 02:27 | 
 403 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [PyPy 3](./codeforces/1467/A.py) | `constructive algorithms` `greedy` `math` `sortings` `*900` | Jan/08/2021 23:24 | 
 402 | [A - Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | [GNU C++17](./codeforces/1003/A.cpp) | `implementation` `*800` | Jan/08/2021 18:47 | 

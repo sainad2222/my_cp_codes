@@ -2244,6 +2244,21 @@
     ],
     "timestamp": "Jan/12/2021 02:27"
   },
+  "CF104338079": {
+    "contest_id": 1473,
+    "language": "PyPy 3",
+    "path": "codeforces/1473/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "No More Inversions",
+    "problem_url": "https://codeforces.com/contest/1473/problem/C",
+    "submission_id": "CF104338079",
+    "submission_url": "https://codeforces.com/contest/1473/submission/104338079",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Jan/14/2021 21:49"
+  },
   "CF104348780": {
     "contest_id": 1473,
     "language": "PyPy 3",
